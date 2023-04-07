@@ -1,0 +1,2 @@
+
+export { drawRedRect } from './drawRedRect';
